@@ -12,8 +12,8 @@
     <description>CLI-based Java banking application</description>
 
     <properties>
-        <maven.compiler.source>17</maven.compiler.source> <!-- Java 17 for max compatibility -->
-        <maven.compiler.target>17</maven.compiler.target>
+        <maven.compiler.source>11</maven.compiler.source> <!-- Changed from Java 17 to 11 for compatibility -->
+        <maven.compiler.target>11</maven.compiler.target>
     </properties>
 
     <dependencies>
